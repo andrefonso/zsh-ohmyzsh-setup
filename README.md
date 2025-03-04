@@ -1,6 +1,6 @@
 # Instalação e Configuração do Zsh e Oh My Zsh em Debian/Ubuntu
 
-Este guia fornece instruções detalhadas para instalar e configurar o **Zsh** e o **Oh My Zsh** em distribuições baseadas em Debian/Ubuntu.
+Este guia fornece instruções detalhadas para instalar e configurar o **Zsh** e o **Oh My Zsh** em distribuições baseadas em Debian/Ubuntu (criado no ChatGpt).
 
 ## 1. Instalando o Zsh
 
